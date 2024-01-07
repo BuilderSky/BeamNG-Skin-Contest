@@ -2,10 +2,10 @@
 ### Here you will find the files and steps necessary for creating your own skin to ulpload for the contest.
 1. To start, please download one or more of the folowing files, corresponding with the car(s) you plan to create a skin for. (There are 2 skins per car, one is color-co-ordinated with the images of the cars and the mod, the other one is just black and white. Use whichever is easier for you.)
 
-[Hirochi Sunburst Normal UV](<downloadUVs/Sunburst UV.png>)
+[Hirochi Sunburst Normal UV](<downloadUVs/Sunburst UV.png>) ***
 [Hirochi Sunburst Color-Coded UV](<downloadUVs/Sunburst Colored UV.png>)
 
-[Civetta Bolide Normal UV](<downloadUVs/Bolide UV.png>)
+[Civetta Bolide Normal UV](<downloadUVs/Bolide UV.png>) ***
 [Civetta Bolide Color-Coded UV](<downloadUVs/Bolide Colored UV.png>)
 
 2. To make it easier to designate parts, I have created a "map" of sorts to show you what piece is where on the vehicle. View each vehicle in [this folder.](UV_Maps/)
