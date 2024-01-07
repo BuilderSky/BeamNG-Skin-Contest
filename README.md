@@ -1,5 +1,7 @@
 # Thank you so much for coming to the S777C Winter Skinning Contest!!!
 ### Here you will find the files and steps necessary for creating your own skin to ulpload for the contest.
+To see how the UV maps out to the vehicle you are editing, view the pictures in [this folder](<mappedVehicles>) and click on the title to view the full image!
+
 1. To start, please download one or more of the folowing files, corresponding with the car(s) you plan to create a skin for. (There are 2 skins per car, one is color-co-ordinated with the images of the cars and the mod, the other one is just black and white. Use whichever is easier for you.)
 
 [Hirochi Sunburst Normal UV](<downloadUVs/Sunburst UV.png>) ***
