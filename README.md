@@ -20,6 +20,6 @@ To see how the UV maps out to the vehicle you are editing, download the [latest 
 
 ![Test](/assets/Car.png) Export file as a .png *** and either DM it to me (@sky777.e4c) or create an issue on this GitHub with your file.
 
-![Test](/assets/Car.png) ### ***MAKE SURE to name it with your name and then your unique title for the skin. Example: sky777_SunburstExample
+### *** MAKE SURE to name it with your name and then your unique title for the skin. Example: sky777_SunburstExample
 
 ![Test](/assets/Car.png) All spaces should be replaced with underscores ( _ ) and you do not have to put your full Discord tag, just your main username so I know who you are.
