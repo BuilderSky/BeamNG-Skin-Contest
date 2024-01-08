@@ -18,7 +18,7 @@ To see how the UV maps out to the vehicle you are editing, download the [latest 
 
 ![Test](/assets/Car.png) Open the UV in your drawing program (i.e. Krita, paint.net, etc.) and use it as a guide for your art. When you are ready to export it, make sure you set the UV to 100% transparent or delete it all together.
 
-![Test](/assets/Car.png) Export file as a .png[^1] and either DM it to me (@sky777.e4c) or create an issue on this GitHub with your file.
+![Test](/assets/Car.png) Export file as a .png[^1] and either send it to the [Winter Contest Submission channel](https://discord.gg/TPeMbdHHfK) or create an issue on this GitHub with your file.
 
 [^1]: ## MAKE SURE to name it with your name and then your unique title for the skin. Example: sky777_SunburstExample
 
