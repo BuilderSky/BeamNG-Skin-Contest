@@ -2,7 +2,7 @@
 ### Here you will find the files and steps necessary for creating your own skin to upload for the contest.
 To see how the UV maps out to the vehicle you are editing, download the [latest release](<https://github.com/BuilderSky/BeamNG-Skin-Contest/releases/download/V2/skinmaps.zip>) and put the .zip folder in your BeamNG mods folder to see the color coordination in BeamNG!
 
-![Test](/assets/Car.png) To start, please download one or more of the folowing files, corresponding with the car(s) you plan to create a skin for. (There are 2 skins per car, one is color-co-ordinated with the images of the cars and the mod, the other one is just black and white. Use whichever is easier for you.)
+![Test](/assets/Car.png) To start, please download one or more of the folowing files, corresponding with the car(s) you plan to create a skin for. (There are 2 skins per car, one is color-co-ordinated with the [images of the cars](/mappedVehicles/) and the mod, the other one is just black and white. Use whichever is easier for you.)
     
 ### Sunburst UVs:
 
@@ -13,6 +13,11 @@ To see how the UV maps out to the vehicle you are editing, download the [latest 
 
 [![B&W Bolide UV](/assets/bolideUVThumb.png)](/downloadUVs/Bolide%20UV.png)
 [![Colored Bolide UV](/assets/bolideColoredUVThumb.png)](/downloadUVs/Bolide%20Colored%20UV.png)
+
+### Vivace UVs:
+
+[![B&W Vivace UV](/assets/vivaceUVThumb.png)](/downloadUVs/Vivace%20UV.png)
+[![Colored Vivace UV](/assets/vivaceColoredUVThumb.png)](/downloadUVs/Vivace%20Colored%20UV.png)
 
 ![Test](/assets/Car.png) To make it easier to designate parts, I have created a "map" of sorts to show you what piece is where on the vehicle. View each vehicle in [this folder.](<mappedVehicles/>)
 
