@@ -1,4 +1,4 @@
-# Thank you so much for coming to the S777C Winter Skinning Contest!!!
+# Thank you so much for coming to the S777C Winter BeamNG Skin Contest!!!
 ### Here you will find the files and steps necessary for creating your own skin to upload for the contest.
 To see how the UV maps out to the vehicle you are editing, download the [latest release](<https://github.com/BuilderSky/BeamNG-Skin-Contest/releases/download/V2/skinmaps.zip>) and put the .zip folder in your BeamNG mods folder to see the color coordination in BeamNG!
 
